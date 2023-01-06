@@ -54,8 +54,8 @@ FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+F1dCaiWLtbNl
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/vedigundi0/4')
 
 # Log Channels
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001833597275'))
-RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', -1001833597275))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001833781506'))
+RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', -1001833781506))
 
 # Bot Options
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
